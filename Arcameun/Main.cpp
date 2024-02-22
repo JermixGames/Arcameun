@@ -4,10 +4,8 @@
 
 int main()
 {
-	
 	CInventario miinventario;
 	CPersonaje Player;
 	menu(Player, miinventario);
-
 	return 0;
 }
